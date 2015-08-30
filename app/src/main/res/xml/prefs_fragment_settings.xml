@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:example="http://schemas.android.com/apk/res/com.troden.thezoo">
+
+    <PreferenceCategory 
+        android:title="Settings" >
+    
+        <Preference 
+    	    android:title="App Info"
+    	    android:summary="Hungry Bird, Version 1.0"
+    	    android:selectable="false"/>
+
+		<Preference
+    	    android:title="Restart Game"
+    	    android:summary="Do you want to restart the entire game?"
+    	    android:selectable="true"
+    	    android:key="key_restart" />
+    	
+ 	</PreferenceCategory>	   
+</PreferenceScreen>

@@ -1,1 +1,5 @@
-The user has to feed the bird when its hungry so that it can be happy. The bird is in various states(egg,happy,hungry,eating). These states are determined by the user's actions. This game includes animations and sound effects which makes the app interesting. Game has an option to switch to Text-To-Speech instead of the normal sounds. Notifications are used to let the user know that the bird is hungry.
+- The user has to feed the bird when its hungry so that it can be happy. 
+- The bird is in various states(egg,happy,hungry,eating). These states are determined by the user's actions. 
+- This game includes animations and sound effects which makes the app interesting. 
+- Game has an option to switch to Text-To-Speech instead of the normal sounds. 
+- Notifications are used to let the user know that the bird is hungry.
